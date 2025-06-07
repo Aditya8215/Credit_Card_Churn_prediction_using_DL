@@ -1,4 +1,4 @@
-# Credit_Card_Churn_prediction_using_DL
+# Handwritten_Digit_Classification_using_DL
 This project is about building an ANN(Artificial Neural Network Network) for Handwritten digits classification.
 <br>
 I have used Tensorflow and kears to build the ANN to Classify the Handwriten Digits 
